@@ -13,4 +13,6 @@ I went with the Farmers Markets, because I'm trying to eat more vegetables.
   
   heres a link to the map http://pgh-farmers-markets.surge.sh/
   
+  (geolocation works in firefox, but not chrome)
+  
   
